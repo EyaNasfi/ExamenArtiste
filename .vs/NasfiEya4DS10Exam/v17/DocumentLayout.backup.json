@@ -1,0 +1,542 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\services\\chansonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\chansonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\services\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\services\\artisteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\artisteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\interfaces\\ichanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\ichanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\interfaces\\iconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iconcert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\views\\artiste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\views\\artiste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\controllers\\artistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\controllers\\artistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\views\\chanson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\views\\chanson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\interfaces\\iartise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iartise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\domain\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\domain\\chanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\chanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.infrastructure\\configurations\\concertconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\configurations\\concertconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.ui.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A090E1E8-B935-463F-AC80-4F2CB7FF4255}|AM.UI.WEB\\AM.UI.WEB.csproj|solutionrelative:am.ui.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FBC11E-EB3A-4A7C-B65A-A17C0A3E0C16}|AM.console\\AM.console.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.console\\am.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0FBC11E-EB3A-4A7C-B65A-A17C0A3E0C16}|AM.console\\AM.console.csproj|solutionrelative:am.console\\am.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\am.applicationcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FBC11E-EB3A-4A7C-B65A-A17C0A3E0C16}|AM.console\\AM.console.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FBC11E-EB3A-4A7C-B65A-A17C0A3E0C16}|AM.console\\AM.console.csproj|solutionrelative:am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.infrastructure\\am.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\am.infrastructure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\am.applicationcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\am.applicationcore.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EF4599-74E5-4A79-8449-2BA870A5D8D2}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|c:\\users\\eya\\source\\repos\\nasfieya4ds10examartiste\\nasfieya4ds10examsq\\nasfieya4ds10exam\\am.infrastructure\\migrations\\20250108150342_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E485F350-E165-4AD7-8DB5-170BD335463B}|AM.Infrastructure\\AM.Infrastructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250108150342_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:863464789:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcertService.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Services\\ConcertService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ConcertService.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Services\\ConcertService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ConcertService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:34:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IChanson.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IChanson.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IChanson.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IChanson.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IChanson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:09:12.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtisteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Services\\ArtisteConfig.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ArtisteConfig.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Services\\ArtisteConfig.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ArtisteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:10:43.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChansonService.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Services\\ChansonService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ChansonService.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Services\\ChansonService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ChansonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:10:11.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IConcert.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IConcert.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IConcert.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IConcert.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IConcert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:32:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Artiste\\Details.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Views\\Artiste\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Artiste\\Details.cshtml",
+              "RelativeToolTip": "AM.UI.WEB\\Views\\Artiste\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:28:57.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArtisteController.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Controllers\\ArtisteController.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Controllers\\ArtisteController.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Controllers\\ArtisteController.cs",
+              "RelativeToolTip": "AM.UI.WEB\\Controllers\\ArtisteController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:26:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AM.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeToolTip": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T19:46:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Chanson\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Views\\Chanson\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Chanson\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.WEB\\Views\\Chanson\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:22:29.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "AM.UI.WEB\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowI4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:46:22.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChansonController.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Controllers\\ChansonController.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Controllers\\ChansonController.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Controllers\\ChansonController.cs",
+              "RelativeToolTip": "AM.UI.WEB\\Controllers\\ChansonController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:08:16.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Chanson\\Create.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Views\\Chanson\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Chanson\\Create.cshtml",
+              "RelativeToolTip": "AM.UI.WEB\\Views\\Chanson\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:15:08.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IArtise.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IArtise.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IArtise.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IArtise.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IArtise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:08:56.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Program.cs",
+              "RelativeToolTip": "AM.UI.WEB\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:58:38.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.WEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:15:25.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artiste.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Artiste.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Artiste.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Artiste.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Artiste.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:43:37.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250108150342_first.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\Migrations\\20250108150342_first.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Migrations\\20250108150342_first.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\Migrations\\20250108150342_first.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Migrations\\20250108150342_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:03:42.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Concert.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Concert.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Concert.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Concert.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:46:11.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Chanson.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Chanson.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Chanson.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Chanson.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Chanson.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:41:31.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Festival.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Festival.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Festival.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Domain\\Festival.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Festival.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:47:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\AMContext.cs",
+              "RelativeToolTip": "AM.Infrastructure\\AMContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:03:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConcertConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\Configurations\\ConcertConfig.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\Configurations\\ConcertConfig.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\Configurations\\ConcertConfig.cs",
+              "RelativeToolTip": "AM.Infrastructure\\Configurations\\ConcertConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:56:09.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "AM.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:03:12.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "AM.UI.WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.UI.WEB\\appsettings.json",
+              "RelativeToolTip": "AM.UI.WEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T19:58:37.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AM.console.csproj",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.console\\AM.console.csproj",
+              "RelativeDocumentMoniker": "AM.console\\AM.console.csproj",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.console\\AM.console.csproj",
+              "RelativeToolTip": "AM.console\\AM.console.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T19:49:14.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AM.ApplicationCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeToolTip": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T19:11:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.console\\Program.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.console\\Program.cs",
+              "RelativeToolTip": "AM.console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:24:28.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AM.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.Infrastructure\\AM.Infrastructure.csproj",
+              "RelativeToolTip": "AM.Infrastructure\\AM.Infrastructure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T19:22:24.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AM.ApplicationCore",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "RelativeToolTip": "AM.ApplicationCore\\AM.ApplicationCore.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T19:21:13.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:13:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Eya\\source\\repos\\NasfiEya4DS10Examartiste\\NasfiEya4DS10Examsq\\NasfiEya4DS10Exam\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:12:53.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
